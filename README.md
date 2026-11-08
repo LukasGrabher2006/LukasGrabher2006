@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas Grabher</h1>
 <h3 align="center">A passionate developer, always fascinated by learning new things</h3>
 
-- 🔭 I’m currently working on **customer Websites**
+- 🔭 I’m currently working on **new Websites**
 
 - 🌱 I’m currently learning **React**
 
